@@ -1,0 +1,10 @@
+pip install python-dotenv
+pip install robotframework-browser
+rfbrowser init
+pip install robotframework-faker
+pip install reportlab
+pip install requests
+
+# App mobile (Portal do Cliente) - Appium/UiAutomator2
+pip install robotframework-appiumlibrary
+pip install Appium-Python-Client
